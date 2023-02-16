@@ -4,7 +4,7 @@ django-model-utils==2.2
 
 django-extensions==1.4.4
 # for django_extensions.runserver_plus
-Werkzeug==0.9.6
+Werkzeug==2.2.3
 
 # if using mysql
 #MySQL-python==1.2.5
